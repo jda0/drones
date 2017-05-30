@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  },
+  "name": "Drone",
+  "version": "1.0.0",
+  "description": "Nodecopter",
+  "main": "simple.js",
+  "author": "James Daly <hello@jamesin.space>",
+  "license": "UNLICENSED"
+}
