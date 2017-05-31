@@ -5,7 +5,7 @@ Setup Parrot
 
 -  No light: Battery not charging
 -  Red light (solid): Charging
--  Red light (flashing): Battery cells balancing (leave charging)
+-  Red light (flashing): Battery cells balancing (could be due to faulty cell, remove and reseat battery then leave and see if the problem persists)
 -  Green light: Charged
 
 
