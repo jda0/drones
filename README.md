@@ -25,7 +25,7 @@ Setup Parrot
 
 -  Install node.js (through `n` for Linux/macOS or `nvm` for Windows)
 -  Optional: install [Yarn](https://yarnpkg.com)
--  `yarn install` or `npm install`
+-  `yarn` or `npm install`
 
 -  Connect to drone Wi-Fi network (written on sticker)
 -  `node repl.js` (DO NOT `npm start` or `yarn start`)
