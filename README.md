@@ -11,7 +11,7 @@ Setup Parrot
 
 ## Firmware update
 
--  Install [https://play.google.com/store/apps/details?id=com.parrot.freeflight&hl=en](AR.FreeFlight)
+-  Install [AR.FreeFlight](https://play.google.com/store/apps/details?id=com.parrot.freeflight&hl=en)
 -  Connect to drone Wi-Fi network (written on sticker)
   -  Android 7: Must tap `Network has no internet access` notification and tap
       `YES` in modal
@@ -24,7 +24,7 @@ Setup Parrot
 ## Installation
 
 -  Install node.js (through `n` for Linux/macOS or `nvm` for Windows)
--  Optional: install [https://yarnpkg.com](Yarn)
+-  Optional: install [Yarn](https://yarnpkg.com)
 -  `yarn install` or `npm install`
 
 -  Connect to drone Wi-Fi network (written on sticker)
